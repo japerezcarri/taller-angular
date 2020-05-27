@@ -1,0 +1,45 @@
+.op{
+    display:flex;
+    flex-wrap: wrap;
+}
+#imag1{
+    background-image: url(src/assets/img/1.1.jpg);
+}
+#imag2{
+    background-image: url(src/assets/img/2.1.jpg);
+}
+#imag3{
+    background-image: url(src/assets/img/3.1.jpg);
+}
+#imag4{
+    background-image: url(src/assets/img/4.1.jpg);
+}
+#imag5{
+    background-image: url(src/assets/img/5.1.jpg);
+}
+#imag6{
+    background-image: url(src/assets/img/6.1.jpg);
+}
+
+.opciones{
+    min-width: 380px;
+    height: 96px;
+    text-align: left;
+    vertical-align: middle;
+    margin:6px;
+    padding: 10px 40px;
+    border-radius: 10%;
+    border-color: white;
+    border:5px;
+    
+    
+}
+.op button{
+    /* padding-left: 70px; */
+    left:60px;
+    width: 90px;
+    border-radius: 12px ;
+}
+h3{
+    font-size:25px;
+}

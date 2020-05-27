@@ -1,0 +1,13 @@
+nav img{
+    width: 90px;
+    margin: 20px;
+}
+.navegacion{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family:'Chelsea Market', cursive;
+}
+.info{
+    display: flex;
+    justify-content: center;
+}

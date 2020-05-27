@@ -1,0 +1,30 @@
+header{
+    height: auto;
+    background-color: rgb(51, 141, 149) ;
+    min-height: 100px;
+}
+.logo{
+    background-image: url(src/assets/img/logo2.png);
+    height: 100px; 
+    width: 120px;
+   background-size: cover;
+}
+@font-face {
+    font-family:Monster ;
+    src: url(src/assets/monster_ag/Monster_AG.ttf);
+  }
+.bg-monster{
+    padding: 2px;
+    background-color:rgb(75, 167, 180);
+    font-family: 'Monster', cursive;
+    color: white;
+    display: flex;
+
+}
+header h1{
+    font-size: 4rem;
+}
+.titulo{
+    top: 10px;
+    text-align: center;
+}

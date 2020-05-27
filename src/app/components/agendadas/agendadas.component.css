@@ -1,0 +1,15 @@
+.citas{
+    width: 80%;
+    margin: 20px;
+    padding:20px;
+    font-size: 1rem;
+    border: white 1px;
+    border-radius: 12px;
+    background-color: white;
+}
+.citas h4{
+    font-size: 1.3rem;
+}
+.citas button{
+    width: 120px;
+}

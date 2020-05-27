@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import url(app/components/footer/footer.component.css); */
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(239, 240, 235);
+}
+.contenedor{
+    justify-content: center;
+  align-items: center;
+  padding:10px;
+}

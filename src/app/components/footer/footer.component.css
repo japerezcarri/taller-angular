@@ -1,0 +1,11 @@
+footer{
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: space-evenly;
+    font-family: 'Chelsea Market', cursive;
+}
+footer img{
+    width: 30px;
+    height: 30px;
+}
